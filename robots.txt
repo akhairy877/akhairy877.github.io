@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /after-form-submit/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.techresolve.com/sitemap.xml
